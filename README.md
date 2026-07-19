@@ -5,6 +5,9 @@ A RP2040 devboard! Im doing it for Hack Club's Macondo program. It features two 
 
 <img width="396" height="869" alt="Zrzut ekranu 2026-07-19 212629" src="https://github.com/user-attachments/assets/8a3b9601-c19c-49ab-aaae-ecf9d9d33a96" />
 
+<img width="806" height="462" alt="Zrzut ekranu 2026-07-20 002038" src="https://github.com/user-attachments/assets/abd299a2-ddbf-4d6f-8ec0-36369cac62b6" />
+The button on the left enters into BOOTSEL mode. The one on the right resets the board.
+
 ## Schematic
 <img width="911" height="629" alt="Zrzut ekranu 2026-07-19 212530" src="https://github.com/user-attachments/assets/051b3b9c-41af-4403-9942-a865f14cf84a" />
 
