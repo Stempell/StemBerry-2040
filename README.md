@@ -1,16 +1,15 @@
 # StemBerry-2040
-A RP2040 devboard! Im doing it for Hack Club's Macondo program with the help of their tutorial.
-<img width="398" height="638" alt="Zrzut ekranu 2026-07-13 181553" src="https://github.com/user-attachments/assets/bd7b3e29-d7f4-4c93-8ef6-4cd328fc4f84" />
+A RP2040 devboard! Im doing it for Hack Club's Macondo program. It features two buttons for reset and bootsel and two onboard led's
 
-<img width="341" height="632" alt="Zrzut ekranu 2026-07-13 181600" src="https://github.com/user-attachments/assets/822fdbec-7038-4106-a27a-113004de0e50" />
+<img width="468" height="863" alt="Zrzut ekranu 2026-07-20 005601" src="https://github.com/user-attachments/assets/0be7016c-14b0-4e00-a44f-d0d4171be142" />
+
+<img width="396" height="869" alt="Zrzut ekranu 2026-07-19 212629" src="https://github.com/user-attachments/assets/8a3b9601-c19c-49ab-aaae-ecf9d9d33a96" />
 
 ## Schematic
-<img width="1289" height="750" alt="Zrzut ekranu 2026-07-13 161828" src="https://github.com/user-attachments/assets/1afa4ade-517f-409c-b3b7-12a00b83c10d" />
+<img width="911" height="629" alt="Zrzut ekranu 2026-07-19 212530" src="https://github.com/user-attachments/assets/051b3b9c-41af-4403-9942-a865f14cf84a" />
 
 ## Pcb
-<img width="668" height="743" alt="Zrzut ekranu 2026-07-13 161816" src="https://github.com/user-attachments/assets/c4250a6a-b683-4b25-8517-23ad25fb3d31" />
+<img width="294" height="626" alt="Zrzut ekranu 2026-07-20 005156" src="https://github.com/user-attachments/assets/1c1467c7-a943-4999-80d3-b81e89ec9683" />
 
 ## JLCPCB bill of materials
-<img width="1440" height="882" alt="Zrzut ekranu 2026-07-13 182345" src="https://github.com/user-attachments/assets/c70c56a8-2eb6-4f85-9c97-13e43e30bf1b" />
-
-
+<img width="1290" height="856" alt="Zrzut ekranu 2026-07-19 234035" src="https://github.com/user-attachments/assets/110d823a-b5b4-493d-9c16-52b34bfed164" />
