@@ -1,7 +1,7 @@
 # StemBerry-2040
-A RP2040 devboard! Im doing it for Hack Club's Macondo program. It features two buttons for reset and bootsel and two onboard led's (and also a cool evangelion-themed silkscreen art)
+A RP2040 devboard! Im doing it for Hack Club's Macondo program. It features two buttons for reset and bootsel and two onboard led's (one for power and one is hooked up to pin15), and also a cool evangelion-themed silkscreen art!
 It plugs in to breadboards an female headers just like a standard pi pico.
-I made this project to learn about making microcontrollers and more advanced pcb's and to have some microcontrollers for personal use. This project taught me a lot. It was also my first time working with restricted space on the board, so every trace and component placement had to be well thought.
+I made this project to learn about making microcontrollers and more advanced pcb's and to have some microcontrollers for personal use. This project taught me a lot and it was also my first time working with restricted space on the board, so every trace and component placement had to be well thought.
 
 <img width="429" height="873" alt="Zrzut ekranu 2026-08-11 022354" src="https://github.com/user-attachments/assets/7a4e0b25-b339-44b2-9e7a-748548297c33" />
 
@@ -19,8 +19,33 @@ To upload code press the BOOTSEL button while booting up the board. It will then
 ## Pcb
 <img width="287" height="651" alt="Zrzut ekranu 2026-08-11 131834" src="https://github.com/user-attachments/assets/33f3d8bf-bb8a-45ca-b125-02bfe5365bd2" />
 
-## JLCPCB bill of materials
-<img width="1127" height="896" alt="Zrzut ekranu 2026-08-11 125004" src="https://github.com/user-attachments/assets/12078f26-b608-450b-8ce3-5c70af397e28" />
+The dimensions are 21 x 51mm
+
+## Bill of materials
+
+
+| Ref. | Value | Package | JLCPCB Part | Type | Qty |
+|---|---|---|---|---|---:|
+| C1, C2, C3, C4, C5, C6, C7, C8, C10, C11, C17, C18 | 100nF | 0402 | C1525 | Basic | 60 |
+| C9, C12 | 1µF | 0402 | C52923 | Basic | 10 |
+| C13, C14 | 10µF | 0603 | C19702 | Basic | 10 |
+| C15, C16 | 33pF | 0402 | C1562 | Basic | 10 |
+| D1 | Red LED | 0603 | C2286 | Basic | 5 |
+| D2 | Green LED | 0805 | C2297 | Basic | 5 |
+| J1 | USB-C Receptacle | TYPE-C-31-M-12 | C165948 | Extended | 5 |
+| R1, R2 | 5.1kΩ | 0402 | C25905 | Basic | 10 |
+| R3, R4 | 27Ω | 0402 | C25156 | Extended | 20 |
+| R5, R6 | 1kΩ | 0402 | C11702 | Basic | 10 |
+| R7 | 10kΩ | 0402 | C25744 | Basic | 5 |
+| R8 | 330Ω | 0402 | C25104 | Basic | 5 |
+| R9 | 470Ω | 0402 | C25117 | Basic | 5 |
+| R11 | 100kΩ | 0402 | C25741 | Basic | 5 |
+| SW1, SW2 | Push Button | 4×3mm SMD | C720477 | Basic | 10 |
+| U1 | RP2040 | QFN-56 7×7mm | C2040 | Extended | 5 |
+| U2 | W25Q16JVUXIQ | USON-8 3×2mm | **C2843335** | Extended | 5 |
+| U3 | XC6206P332MR-G | SOT-23-3L | C5446 | Basic | 5 |
+| Y1 | 12MHz Crystal | 3225 4-pin | C9002 | Basic | 5 |
+
 
 You will also need to hand solder two 1x20 male to male pin headers like these ones:
 
