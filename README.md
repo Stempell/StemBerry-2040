@@ -1,7 +1,7 @@
 # StemBerry-2040
-A RP2040 devboard! Im doing it for Hack Club's Macondo program. It features two buttons for reset and bootsel and two onboard led's(one for power and one is hooked up to pin15), and also a cool evangelion-themed silkscreen art)
+A RP2040 devboard! Im doing it for Hack Club's Macondo program. It features two buttons for reset and bootsel and two onboard led's (one for power and one is hooked up to pin15), and also a cool evangelion-themed silkscreen art!
 It plugs in to breadboards an female headers just like a standard pi pico.
-I made this project to learn about making microcontrollers and more advanced pcb's and to have some microcontrollers for personal use. This project taught me a lot. It was also my first time working with restricted space on the board, so every trace and component placement had to be well thought.
+I made this project to learn about making microcontrollers and more advanced pcb's and to have some microcontrollers for personal use. This project taught me a lot and it was also my first time working with restricted space on the board, so every trace and component placement had to be well thought.
 
 <img width="429" height="873" alt="Zrzut ekranu 2026-08-11 022354" src="https://github.com/user-attachments/assets/7a4e0b25-b339-44b2-9e7a-748548297c33" />
 
