@@ -21,6 +21,17 @@ To upload code press the BOOTSEL button while booting up the board. It will then
 
 The dimensions are 21 x 51mm
 
+## Full Bulid!
+
+Here's the finished thing! :
+
+<img width="3000" height="4000" alt="rn_image_picker_lib_temp_f81ba5df-a650-4bd9-aeb2-6862f3ff5635" src="https://github.com/user-attachments/assets/ec5b17c2-01c2-4880-aace-af0e96ff5c74" />
+
+<img width="3000" height="4000" alt="rn_image_picker_lib_temp_1b1304c0-836c-4825-8f34-5971c93e954a" src="https://github.com/user-attachments/assets/a8b1c772-2387-4e7f-b030-cf4f56f01958" />
+
+
+
+
 ## Bill of materials
 
 | Component | Qty / board | Order qty | Ext. price | JLCPCB part |
